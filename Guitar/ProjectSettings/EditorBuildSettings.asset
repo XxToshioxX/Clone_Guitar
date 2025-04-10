@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Teste/Inicio.unity
+    guid: 1350ec874b6927b4baefb572cc1318ad
+  - enabled: 1
+    path: Assets/Scenes/Teste/Selecao.unity
+    guid: 882d8f9d20cac214db4a48ade50aaa48
+  - enabled: 1
+    path: Assets/Scenes/Teste/Mapa.unity
+    guid: f05fc4a8101cbf1469361e206bc6788e
+  - enabled: 1
+    path: Assets/Scenes/Teste/FlorestaScene/H/Fase1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Teste/FlorestaScene/H/Win.unity
+    guid: 6c3971886ee97c940a755b7cfbced774
+  - enabled: 1
+    path: Assets/Scenes/Teste/FlorestaScene/H/Lose.unity
+    guid: f451db2f03d52a54b8793ca314ae58dc
+  - enabled: 1
+    path: Assets/Scenes/Teste/LagoScene/H/Fase2.unity
+    guid: 022267c95164dd845a6352d9f1198218
+  - enabled: 1
+    path: Assets/Scenes/Teste/LagoScene/H/WinLago.unity
+    guid: 7a7d180073c4a634283d495001600e82
+  - enabled: 1
+    path: Assets/Scenes/Teste/LagoScene/H/LoseLago.unity
+    guid: 682869490b73bc14baa1d6446a3ec586
+  - enabled: 1
+    path: Assets/Scenes/Teste/SubterraneoScene/H/Fase3.unity
+    guid: 9b452baf2b6b36a4cac92eb0439129ec
+  - enabled: 1
+    path: Assets/Scenes/Teste/SubterraneoScene/H/WinSubterraneo.unity
+    guid: e54567dad95298f4a915d934439e90f7
+  - enabled: 1
+    path: Assets/Scenes/Teste/SubterraneoScene/H/LoseSubterraneo.unity
+    guid: df08203c54f9ab440815b0431c8002cb
+  - enabled: 1
+    path: Assets/Scenes/Teste/Fase4/H/Fase4.unity
+    guid: cc119b0091b724445911d7663f5383a4
+  - enabled: 1
+    path: Assets/Scenes/Teste/Fase4/H/WinFase4.unity
+    guid: f811fa55c7eea794b9e7bee73653dd3a
+  - enabled: 1
+    path: Assets/Scenes/Teste/Fase4/H/LoseFase4.unity
+    guid: 04f05e40f6b0fe74992224b7f2fe9b51
+  - enabled: 1
+    path: Assets/Scenes/Teste/Fase5/H/Fase5.unity
+    guid: 6b34c668c7ea95648a4bb7f90eacdbb0
+  - enabled: 1
+    path: Assets/Scenes/Teste/Fase5/H/WinFase5.unity
+    guid: 645e0e36d03239b43bc5e31fdaab95cf
+  - enabled: 1
+    path: Assets/Scenes/Teste/Fase5/H/LoseFase5.unity
+    guid: f5af52fc5f5a2ab4d8220df85219f041
+  - enabled: 1
+    path: Assets/Scenes/Teste/MapaF.unity
+    guid: 94641318c802e6a40bbba4aa984387e4
+  - enabled: 1
+    path: Assets/Scenes/Teste/FlorestaScene/F/Fase1F.unity
+    guid: a69d5b911e621ef4cb2eb9c0ee64f213
+  - enabled: 1
+    path: Assets/Scenes/Teste/FlorestaScene/F/LoseF.unity
+    guid: 0b206dd0403992b4f8b6bbd2e68fb739
+  - enabled: 1
+    path: Assets/Scenes/Teste/FlorestaScene/F/WinF.unity
+    guid: b1c2d68082a99d442b8eacd5bc49888b
+  - enabled: 1
+    path: Assets/Scenes/Teste/LagoScene/F/Fase2F.unity
+    guid: 9bd8aec7555a7ad49b909fbe90666f0f
+  - enabled: 1
+    path: Assets/Scenes/Teste/LagoScene/F/LoseLagoF.unity
+    guid: 76b8985f06acd2d42ae6fd0ddc425de1
+  - enabled: 1
+    path: Assets/Scenes/Teste/LagoScene/F/WinLagoF.unity
+    guid: 90a9db05fdcf47e41959790365dd6ed6
+  - enabled: 1
+    path: Assets/Scenes/Teste/SubterraneoScene/F/Fase3F.unity
+    guid: b91900b9992a40e42b38dea973e64ac3
+  - enabled: 1
+    path: Assets/Scenes/Teste/SubterraneoScene/F/LoseSubterraneoF.unity
+    guid: a665bae107dbdb4448fa748a8f8beedf
+  - enabled: 1
+    path: Assets/Scenes/Teste/SubterraneoScene/F/WinSubterraneoF.unity
+    guid: d7c7e1bb86bc0c14dbbb14c9a00704b7
+  - enabled: 1
+    path: Assets/Scenes/Teste/Fase4/F/Fase4F.unity
+    guid: 80d739e4fce51f64fb96d90c9b7d1103
+  - enabled: 1
+    path: Assets/Scenes/Teste/Fase4/F/LoseFase4F.unity
+    guid: b8813de355fac9e4086cd06045c2e352
+  - enabled: 1
+    path: Assets/Scenes/Teste/Fase4/F/WinFase4F.unity
+    guid: 03288dd8858776440bcb7577d9dc050d
+  - enabled: 1
+    path: Assets/Scenes/Teste/Fase5/F/Fase5F.unity
+    guid: daa443750ad1e014aa483041ed139c7c
+  - enabled: 1
+    path: Assets/Scenes/Teste/Fase5/F/LoseFase5F.unity
+    guid: f4e8a0f3ac016c34e8e12558b2787f23
+  - enabled: 1
+    path: Assets/Scenes/Teste/Fase5/F/WinFase5F.unity
+    guid: d1f09403daa3e864482fadd0fd7446a8
+  m_configObjects: {}
